@@ -14,7 +14,7 @@ cd inventory-management
 mvn clean install
 ```
 
-### Test
+### Run and Test
 
 ```bash
 cd target
